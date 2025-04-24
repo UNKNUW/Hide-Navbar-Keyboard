@@ -21,7 +21,7 @@ This Magisk module hides the navigation bar when the keyboard appears on your An
 3. Enjoy a cleaner keyboard and gesture experience.
 
 ## Credits
-**@unknuw x ChatGPT**.
+**[@unknuw]**(https://t.me/unknuw) x **[ChatGPT]**(https://chat.openai.com/)
 
 ## License
 MIT or Custom Open Use License (as you prefer to apply).
