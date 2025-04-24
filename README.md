@@ -1,3 +1,5 @@
+<img src="https://github.com/UNKNUW/Hide-Navbar-Keyboard/raw/main/banner-2.7.1.png" alt="Hide Navbar Keyboard Banner"/>
+
 # Hide Navbar Keyboard
 
 **Version:** 2.7.1 FINAL  
