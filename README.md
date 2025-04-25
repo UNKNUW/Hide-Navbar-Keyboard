@@ -15,7 +15,7 @@ This Magisk module hides the navigation bar when the keyboard appears on your An
 - Includes multiple overlay options from Android Q and R gesture styles
 - Clean and minimal system modifications
 - No hardcoded MIUI or version checks — universal support
-- Flashable via Magisk Manager or Recovery (TWRP/OrangeFox)
+- Flashable via Magisk Manager or KernelSu
 
 ## Installation
 1. Flash via Magisk Manager or custom recovery.
