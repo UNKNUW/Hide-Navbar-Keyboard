@@ -2,9 +2,6 @@
 
 # Hide Navbar Keyboard
 
-**Version:** 2.7.1 FINAL  
-**Maintained by:** @unknuw x ChatGPT
-
 ## Description
 This Magisk module hides the navigation bar when the keyboard appears on your Android device. Designed for an immersive typing and gesture experience, it's perfect for users who prefer a clean interface, especially on devices with gesture navigation.
 
